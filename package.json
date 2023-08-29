@@ -1,0 +1,23 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myrepo"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "meteorology",
+    "data-analysis",
+    "API",
+    "JavaScript"
+  ],
+  "author": "Kapil Meena",
+  "license": "ISC"
+}
